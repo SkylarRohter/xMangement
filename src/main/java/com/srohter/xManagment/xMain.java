@@ -1,2 +1,4 @@
-package com.srohter.xManagment;public class xMain {
+package com.srohter.xManagment;
+
+public class xMain {
 }

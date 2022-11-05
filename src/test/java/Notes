@@ -1,0 +1,14 @@
+ZBar? Only runs on windows build
+https://zbar.sourceforge.net/
+
+Barcode thread on stack
+https://stackoverflow.com/questions/19874557/read-barcode-from-an-image-in-java
+
+Paid barcode reader SDK
+http://www.datasymbol.com/barcode-reader-sdk/barcode-reader-sdk-for-linux-macos/linux-macos-barcode-reader-sdk.html
+
+ZXing maven
+https://zxing.github.io/zxing/dependency-info.html
+
+Infybuzz Youtube video on ZXing
+https://www.youtube.com/watch?v=mAczatrLwKY
